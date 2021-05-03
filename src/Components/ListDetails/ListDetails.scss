@@ -1,0 +1,21 @@
+.party-info {
+  display: flex;
+  justify-content: space-evenly;
+  min-width: 50%;
+  table {
+    width: 100%;
+  }
+  thead{
+    background-color: lightgrey;
+    width: 100%;
+  }
+  tr{
+    height: 35px;
+    width: 100%;
+    text-align: left;
+  }
+  .representative-row{
+    cursor: pointer;
+  }
+}
+

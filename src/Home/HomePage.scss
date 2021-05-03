@@ -1,0 +1,21 @@
+.home-title{
+  color: #30C3FF;
+}
+.list-title {
+  display: flex;
+  justify-content: center;
+  .list-position-type {
+    color: #30C3FF;
+    margin-left:5px;
+  }
+}
+.component-wrapper {
+  display:flex;
+  justify-content: space-evenly;
+  .list-wrapper {
+    width:100%;
+  }
+}
+.details-component-wrapper {
+  min-width: 50%;
+}
